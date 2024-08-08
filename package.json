@@ -1,0 +1,21 @@
+{
+  "name": "veiled",
+  "displayName": "Veiled",
+  "description": "A minimal, quiet theme made to lessen distractions.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Veiled",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Veiled-color-theme.json"
+      }
+    ]
+  }
+}
